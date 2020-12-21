@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactExp", "FactExp\FactExp.csproj", "{F5CBFACC-C390-4D49-94A0-D7E7D2F8836D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CBFACC-C390-4D49-94A0-D7E7D2F8836D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CBFACC-C390-4D49-94A0-D7E7D2F8836D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CBFACC-C390-4D49-94A0-D7E7D2F8836D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CBFACC-C390-4D49-94A0-D7E7D2F8836D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89CC93D7-6890-4891-B51F-1BA1D9EBD1C7}
+	EndGlobalSection
+EndGlobal

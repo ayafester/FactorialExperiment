@@ -1,0 +1,13 @@
+C:\Users\Georg\source\repos\FactExp\FactExp\bin\Debug\netcoreapp3.1\FactExp.exe
+C:\Users\Georg\source\repos\FactExp\FactExp\bin\Debug\netcoreapp3.1\FactExp.deps.json
+C:\Users\Georg\source\repos\FactExp\FactExp\bin\Debug\netcoreapp3.1\FactExp.runtimeconfig.json
+C:\Users\Georg\source\repos\FactExp\FactExp\bin\Debug\netcoreapp3.1\FactExp.runtimeconfig.dev.json
+C:\Users\Georg\source\repos\FactExp\FactExp\bin\Debug\netcoreapp3.1\FactExp.dll
+C:\Users\Georg\source\repos\FactExp\FactExp\bin\Debug\netcoreapp3.1\FactExp.pdb
+C:\Users\Georg\source\repos\FactExp\FactExp\obj\Debug\netcoreapp3.1\FactExp.csprojAssemblyReference.cache
+C:\Users\Georg\source\repos\FactExp\FactExp\obj\Debug\netcoreapp3.1\FactExp.AssemblyInfoInputs.cache
+C:\Users\Georg\source\repos\FactExp\FactExp\obj\Debug\netcoreapp3.1\FactExp.AssemblyInfo.cs
+C:\Users\Georg\source\repos\FactExp\FactExp\obj\Debug\netcoreapp3.1\FactExp.csproj.CoreCompileInputs.cache
+C:\Users\Georg\source\repos\FactExp\FactExp\obj\Debug\netcoreapp3.1\FactExp.dll
+C:\Users\Georg\source\repos\FactExp\FactExp\obj\Debug\netcoreapp3.1\FactExp.pdb
+C:\Users\Georg\source\repos\FactExp\FactExp\obj\Debug\netcoreapp3.1\FactExp.genruntimeconfig.cache
